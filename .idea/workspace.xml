@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1eb646b-2eb8-4f8d-bac4-9fb597fb74ca" name="Default Changelist" comment="" />
+    <list default="true" id="e82cb788-dc2d-4ecb-aaff-af22f286f370" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE_Praktikum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SE_Praktikum.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -13,7 +19,12 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1j0XMcgZ87P2sIX7cjazYQtBKWb" />
+  <component name="ProjectId" id="1j0hk76i6Cy42HKdclNoxJmaKzH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
@@ -23,11 +34,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e1eb646b-2eb8-4f8d-bac4-9fb597fb74ca" name="Default Changelist" comment="" />
-      <created>1602941935697</created>
+      <changelist id="e82cb788-dc2d-4ecb-aaff-af22f286f370" name="Default Changelist" comment="" />
+      <created>1602947056506</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602941935697</updated>
+      <updated>1602947056506</updated>
     </task>
     <servers />
   </component>
