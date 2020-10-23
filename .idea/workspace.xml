@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e82cb788-dc2d-4ecb-aaff-af22f286f370" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/XCOM.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/scala_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Xcom.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/Xcom.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE_Praktikum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SE_Praktikum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Xcom.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/Xcom.sc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1j0hk76i6Cy42HKdclNoxJmaKzH" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -66,7 +65,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -95,17 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.XCOM" />
@@ -127,7 +115,8 @@
       <updated>1602947056506</updated>
       <workItem from="1602948528653" duration="3866000" />
       <workItem from="1603181981560" duration="97000" />
-      <workItem from="1603187710188" duration="2937000" />
+      <workItem from="1603187710188" duration="4165000" />
+      <workItem from="1603434493780" duration="2730000" />
     </task>
     <servers />
   </component>
@@ -154,34 +143,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1602951714429" />
-    <state x="583" y="327" width="378" height="170" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1602949191186">
+    <state x="583" y="327" width="396" height="170" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1603434605670">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="583" y="327" width="378" height="170" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1602949191186" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603189266731">
+    <state x="583" y="327" width="396" height="170" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1603434605670" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603209274995">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1603189266731" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603189266731">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1603209274995" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603209274992">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1603189266731" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603189266730">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1603209274992" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603209274989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1603189266730" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603189266731">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1603209274989" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603209274993">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1603189266731" />
-    <state x="277" y="0" key="SettingsEditor" timestamp="1602951933027">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1603209274993" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1603434589122">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="0" key="SettingsEditor/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1602951933027" />
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1603434589122" />
     <state x="209" y="96" key="new project wizard" timestamp="1602951922479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="96" key="new project wizard/0.0.1536.824/-267.-1440.2560.1400@0.0.1536.824" timestamp="1602951922479" />
+    <state x="676" y="-1125" width="672" height="678" key="search.everywhere.popup" timestamp="1603436134989">
+      <screen x="-267" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="676" y="-1125" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-267.-1440.2560.1400@-267.-1440.2560.1400" timestamp="1603436134989" />
   </component>
   <component name="WorksheetDefaultProjectSettings">
     <option name="compilerProfileName" value="Default" />
